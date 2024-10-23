@@ -1,3 +1,31 @@
+/* src/assets/fonts/fonts.css */
+/* src/assets/fonts/fonts.css */
+@font-face {
+  font-family: "Poppins";
+  src: url("./assets/fonts/Poppins-Regular.ttf") format("truetype");
+  font-weight: 400; /* Regular */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("./assets/fonts/Poppins-Medium.ttf") format("truetype");
+  font-weight: 500; /* Medium */
+  font-style: normal;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("./assets/fonts/Poppins-SemiBold.ttf") format("truetype");
+  font-weight: 600; /* semibold */
+  font-style: semi;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("./assets/fonts/Poppins-Bold.ttf") format("truetype");
+  font-weight: 700; /* Bold */
+  font-style: normal;
+}
+
 .App {
   text-align: center;
 }
