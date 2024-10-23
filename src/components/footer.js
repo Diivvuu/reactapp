@@ -9,8 +9,10 @@ const Footer = () => {
             <img src="./trophy.png" className="filter brightness-0" />
           </div>
           <div>
-            <div className="text-black font-semi text-xl">High Quality</div>
-            <div className="text-[#898989] font-semi text-lg">
+            <div className="text-black font-semi text-xs md:text-xl">
+              High Quality
+            </div>
+            <div className="text-[#898989] font-semi text-xs md:text-lg">
               crafted form top materials
             </div>
           </div>
@@ -20,8 +22,10 @@ const Footer = () => {
             <img src="./guarantee.png" className="filter brightness-0" />
           </div>
           <div>
-            <div className="text-black font-semi text-xl">High Quality</div>
-            <div className="text-[#898989] font-semi text-lg">
+            <div className="text-black font-semi text-xs md:text-xl">
+              High Quality
+            </div>
+            <div className="text-[#898989] font-semi text-xs md:text-lg">
               crafted form top materials
             </div>
           </div>
@@ -31,8 +35,10 @@ const Footer = () => {
             <img src="./free.png" className="filter brightness-0" />
           </div>
           <div>
-            <div className="text-black font-semi text-xl">High Quality</div>
-            <div className="text-[#898989] font-semi text-lg">
+            <div className="text-black font-semi text-xs md:text-xl">
+              High Quality
+            </div>
+            <div className="text-[#898989] font-semi text-xs md:text-lg">
               crafted form top materials
             </div>
           </div>
@@ -42,8 +48,10 @@ const Footer = () => {
             <img src="./support.png" className="filter brightness-0" />
           </div>
           <div>
-            <div className="text-black font-semi text-xl">High Quality</div>
-            <div className="text-[#898989] font-semi text-lg">
+            <div className="text-black font-semi text-xs md:text-xl">
+              High Quality
+            </div>
+            <div className="text-[#898989] font-semi text-xs md:text-lg">
               crafted form top materials
             </div>
           </div>
